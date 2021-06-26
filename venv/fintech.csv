@@ -1,0 +1,7 @@
+id,created_at,source,clean_text,polarity,subjectivity,language,favorite_count,retweet_count,original_author,screen_count,followers_count,friends_count,hashtags,user_mentions,place,place_coordinate
+1,"""2/6/2020""",https://github.com/10xac,sample clean text,1,0.7,en,112,119,Mola,116,161,723,danawit,some one mentions ,Gonder,"Abebe"
+2,"""2/6/2020""",https://github.com/10xac,sample clean text,2,0.1,en,112,119,abebe,116,121,123,danawit,some one mentions ,addis ababa,"st, urael"
+3,"""2/6/2020""",https://github.com/10xac,sample clean text,1,0.7,en,112,119,abebe,116,121,123,danawit,some one mentions ,addis ababa,"st, urael"
+4,"""2/6/2020""",https://github.com/10xac,sample clean text,2,0.1,en,112,119,Gabreal,116,121,123,mekbeb,some one mentions ,Bahir Dar,"somewher"
+5,"""2/6/2020""",https://github.com/10xac,sample clean text,1,0.7,en,112,119,abebe,116,121,123,danawit,some one mentions ,addis ababa,"comeer"
+6,"""2/6/2020""",https://github.com/10xac,sample clean text,2,0.1,en,112,119,dagne,116,121,123,meseret,some one mentions ,addis ababa,"somewher"
